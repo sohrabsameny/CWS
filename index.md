@@ -1,37 +1,147 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Singularity</title>
 
-You can use the [editor on GitHub](https://github.com/sohrabsameny/CWS/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+<link rel="shortcut icon" href="../favicon.ico" />
+<link rel="apple-touch-icon" href="../apple-touch-icon-144x144.png" />
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<style>
 
-### Markdown
+.number {
+	font-size: 50pt;
+	color: lightgray;
+}
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+body {
+  background-image: url(noise.png);
+}
+.step {
+    position: relative;
+    padding: 40px;
+    margin: 0 auto;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing:    border-box;
+    -ms-box-sizing:     border-box;
+    -o-box-sizing:      border-box;
+    box-sizing:         border-box;
+    font-family: 'PT Serif', georgia, serif;
+    font-size: 48px;
+    line-height: 1.5;
+}
+.slidelarge {
+  display: block;
+  width: 1000px;
+  height: 600px;
+  padding: 30px 15px;
+  background-color: white;
+  border: 1px solid rgba(0, 0, 0, .3);
+  border-radius: 10px;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, .1);
+  color: rgb(102, 102, 102);
+  text-shadow: 0 2px 2px rgba(0, 0, 0, .1);
+  font-family: 'Open Sans', Arial, sans-serif;
+  padding-top: 20pt;
+  background-image:url("bottom.png");
+  background-repeat:no-repeat;   
+  background-size: 1000px;
+  background-position:bottom;
+}
+.slide {
+  display: block;
+  width: 800px;
+  height: 600px;
+  padding: 120px 60px;
+  background-color: white;
+  border: 1px solid rgba(0, 0, 0, .3);
+  border-radius: 10px;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, .1);
+  color: rgb(102, 102, 102);
+  text-shadow: 0 2px 2px rgba(0, 0, 0, .1);
+  font-family: 'Open Sans', Arial, sans-serif;
+  padding-top: 20pt;
+  background-image:url("bottom.png");
+  background-repeat:no-repeat;   
+  background-size: 800px;
+  background-position:bottom;
+}
+.credits, .credits h2 {
+  padding-top: 0;
+}
+.rtl {
+  direction: rtl;
+}
+</style>
+</head>
+<body>
+<div id="impress">
+<div class="step slide" data-x="-400" data-y="-300" data-rotate="0" data-scale="1.728125">
+<p>به نام ِ خدا </p>
+<h2>CoWorkingSpace</h2>
+<small>
+محمّـــــدِ ثامنی<br />
+www.cppp.ir<br />
+</div>
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+<div class="step slidelarge" data-x="1575" data-y="-299" data-rotate="0" data-scale="1">
+<center ><img src="acc.png" width=85%></br >
+</div>
 
-- Bulleted
-- List
+<div class="step slidelarge" data-x="1455" data-y="375" data-rotate="20" data-scale="1"><center >
+What is CoWorkingSpace?
+<p><font size="5">>Entrepreneurs, small businesses and freelancers who need a quick place to work<color="red"> ___ </color>
+>Save money and minimize rental costs without working unconfortably 
+<p>	>Not interested in SIGNING LENGHTY CONTRACTS in order to lease office space.
+>Collaborate with innovative and energetic Entrepreneurs and startups
+</font></P>
+</div>
+<div class="step slidelarge" data-x="1112" data-y="969" data-rotate="40" data-scale="1"><center ><img src=acc.png width=84% ></div>
+<div class="step slide" data-x="587" data-y="1410" data-rotate="60" data-scale="1" ><center ><img src=cloud.png width=92%></div>
+<div class="step slidelarge" data-x="-57" data-y="1644" data-rotate="80" data-scale="1"><center ><img src=devices.png width=90% ></div>
+<div class="step slide" data-x="-742" data-y="1644" data-rotate="100" data-scale="1"><center ><img src='chip.jpg' width=100% ></div>
+<div class="step slide" data-x="-1387" data-y="1410" data-rotate="120" data-scale="1"><center ><img src=city.jpg width=100% ></div>
+<div class="step slide" data-x="-1912" data-y="969" data-rotate="140" data-scale="1"><center ><img style="padding-top: 30px" src=parking.jpg width=100% ></div>
+<div class="step slide" data-x="-2255" data-y="375" data-rotate="160" data-scale="1"><center ><img src="shit.jpg" width=95% > </div>
+<div class="step slidelarge" data-x="-2375" data-y="-300" data-rotate="180" data-scale="1"><center ><img src="vaccume.jpg" width=85% ></div>
+<div class="step slide" data-x="-2255" data-y="-975" data-rotate="200" data-scale="1"><center ><img src="wisdom.png" width=100% ></div>
+<div class="step slide" data-x="-1912" data-y="-1569" data-rotate="220" data-scale="1"><center ><img src="st.png" width=70% ></div>
+<div class="step slidelarge" data-x="-1387" data-y="-2010" data-rotate="240" data-scale="1"><center ><img src="hardware.jpg" width=85% ></div>
+<div class="step slide" data-x="-742" data-y="-2244" data-rotate="260" data-scale="1"><center ><img src=protocols.png width=80%></div>
+<div class="step slide" data-x="-57" data-y="-2244" data-rotate="280" data-scale="1">
+<ul>
 
-1. Numbered
-2. List
+<li>Range
+</li><li>Bandwidth
+</li><li>Power usage
+</li><li>Intermittent connectivity
+</li><li>Interoperability
+</li><li>Security
 
-**Bold** and _Italic_ and `Code` text
+</ul>
+</div>
+<div class="step slide" data-x="587" data-y="-2010" data-rotate="300" data-scale="1"><center ><img src=kaa.png width=58%></div>
+<div class="step slide" data-x="1112" data-y="-1569" data-rotate="320" data-scale="1"><center ><img src=nodered.png width=70%></div>
+<div class="step slide credits" data-x="1455" data-y="-975" data-rotate="340" data-scale="1">
+    <h2>Thanks for your concentration</h2>
+	<font size="3">
+	This Slideshow is shared via <url>github.com/sohrabsameny/presentation</url>
+	generated based on an OpenSource template created by Danial Behzadi with HTML5
+	</font>
+  </div>
+<div class="step" data-x="0" data-y="0" data-scale="8"></div>
+</div>
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sohrabsameny/CWS/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+
+<script src="impress.js"></script>
+<script>impress().init();</script>
+
+</body>
+</html>
